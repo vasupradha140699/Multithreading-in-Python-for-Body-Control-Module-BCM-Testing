@@ -11,12 +11,7 @@ A Python project that simulates automotive Body Control Module (BCM) testing usi
 - Thread creation and synchronization using Python's `threading` module
 
 ## Technologies
-Python 3, `threading`, `time`
-
-## How to Run
-```bash
-python bcm_multithreading.py
-```
+Python, `threading`, `time`
 
 ## Note
 This is a simulation for learning automotive software testing concepts. It does not communicate with a real BCM or CAN bus.
